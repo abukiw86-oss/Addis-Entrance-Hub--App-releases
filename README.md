@@ -1,4 +1,12 @@
 ##  Addis Entrance Hub  
+<p align="center">
+
+<a href="https://github.com/abukiw86-oss/Addis-Entrance-Hub--App-releases/releases">
+ <img   height="240" alt="image" src="https://github.com/user-attachments/assets/78f4e9fd-f3f4-457b-8440-efaea0b204a7" />
+</a>
+</p>
+
+
 ## Addis Entrance Hub — Mobile App Release
 
 We are excited to introduce the **Addis Entrance Hub Mobile Application**, a fully functional mobile version of the Addis Entrance Hub platform designed to help students prepare efficiently for entrance examinations anytime and anywhere.
@@ -68,8 +76,7 @@ Contributions, feedback, and suggestions are welcome. Feel free to open an issue
 
 ## 👨‍💻 Developer
 
-Developed by **Abuki W**
-GitHub: https://github.com/abukiw86-oss
+Developed by **Abubeker**
 
 ---
 
