@@ -67,8 +67,17 @@ you can get the Android App in **Release** Section , and make sure you are downl
 
 
  <p align="center">
-  <a href="https://github.com/abukiw86-oss/Addis-Entrance-Hub--App-releases/releases/latest">
+  <a href="https://github.com/abukiw86-oss/Addis-Entrance-Hub--App-releases/releases/download/AddisEntranceHub/addisentranehub_32_bit.apk">
     <img src="https://img.shields.io/badge/Download-APK-success?style=for-the-badge&logo=android&logoColor=white" />
-  </a>
+    <br> <em>Download 32 bit</em>
+  </a> 
 </p>
+ 
+ ---
 
+ <p align="center">
+  <a href="https://github.com/abukiw86-oss/Addis-Entrance-Hub--App-releases/releases/download/AddisEntranceHub/addisentranehub_64_bit.apk">
+    <img src="https://img.shields.io/badge/Download-APK-success?style=for-the-badge&logo=android&logoColor=white" />
+    <br> <em>Download 64 bit</em>
+  </a> 
+</p 
