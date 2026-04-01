@@ -67,7 +67,7 @@ you can get the Android App in **Release** Section , and make sure you are downl
 
 
  <p align="center">
-  <a href=" https://github.com/abukiw86-oss/Addis-Entrance-Hub--App-releases/releases">
+  <a href="https://github.com/abukiw86-oss/Addis-Entrance-Hub--App-releases/releases">
     <img src="https://img.shields.io/badge/Download-APK-success?style=for-the-badge&logo=android&logoColor=white" />
   </a>
 </p>
