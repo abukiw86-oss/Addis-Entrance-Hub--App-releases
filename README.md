@@ -70,7 +70,7 @@ The mobile app is built using **Flutter**, ensuring high performance and a consi
 
 ##  Contribution
 
-Contributions, feedback, and suggestions are welcome. Feel free to open an issue or submit a pull request.
+Contributions, feedback, and suggestions are welcome. Feel free to open an issue.
 
 ---
 
